@@ -33,3 +33,5 @@ Common materials include germanium (Ge, high refractive index, ideal for LWIR), 
 
 5. Technology Development Trends
 Current infrared lenses are evolving toward athermalization, continuous zoom, lightweight design, and intelligence. Athermalized designs maintain focus stability under extreme temperature differences; motorized continuous zoom provides greater operational flexibility; and AI algorithms can analyze thermal image anomalies in real time for automatic alerts. Multi-spectral fusion technology is integrating visible light, near-infrared, and long-wave infrared information to deliver more comprehensive environmental perception.
+
+Learn more details please visit our technical blog (https://u-optech.com/en/technical-blog/)
